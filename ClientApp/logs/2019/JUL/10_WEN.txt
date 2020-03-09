@@ -1,0 +1,121 @@
+[2019.JUL.10 9:39:2]: dmesg
+[2019.JUL.10 9:40:5]: cd an
+[2019.JUL.10 9:40:6]: ls -l
+[2019.JUL.10 9:40:11]: cd ../re
+[2019.JUL.10 9:40:14]: a
+[2019.JUL.10 9:40:15]: ls
+[2019.JUL.10 9:40:18]: ls -l
+[2019.JUL.10 9:40:25]: cd ../par
+[2019.JUL.10 9:40:27]: ls -l
+[2019.JUL.10 9:41:11]: dmesg
+[2019.JUL.10 9:42:46]: //
+[2019.JUL.10 9:45:48]: vacanta2003debian install c++ libraries
+[2019.JUL.10 9:46:9]: su
+[2019.JUL.10 9:46:12]: agrpass2996
+[2019.JUL.10 9:46:23]: apt-get install build-essential
+[2019.JUL.10 9:46:25]: y
+[2019.JUL.10 9:49:46]: ls
+[2019.JUL.10 9:49:49]: facebook
+[2019.JUL.10 9:49:52]: dmesg
+[2019.JUL.10 9:51:14]: if (this->is_connected == true
+[2019.JUL.10 9:51:17]: {
+[2019.JUL.10 9:51:18]: }
+[2019.JUL.10 9:51:20]: else
+[2019.JUL.10 9:51:21]: {
+[2019.JUL.10 9:52:0]: return 0;dmesg
+[2019.JUL.10 9:53:8]: bool isConnected(void);
+[2019.JUL.10 9:53:10]: {
+[2019.JUL.10 9:54:25]: ::return this->isConnected;
+[2019.JUL.10 9:54:35]: _c
+[2019.JUL.10 9:54:51]: if (client->isConnected() == true
+[2019.JUL.10 9:54:54]: {
+[2019.JUL.10 9:55:14]: }
+[2019.JUL.10 9:55:38]: if (client->isConnected() == true
+[2019.JUL.10 9:55:39]: {
+[2019.JUL.10 9:55:57]: }
+[2019.JUL.10 9:57:18]: if (client->isConnected() == true
+[2019.JUL.10 9:57:19]: {
+[2019.JUL.10 9:58:3]: }
+[2019.JUL.10 9:58:40]: dmesg
+[2019.JUL.10 10:1:7]: 1#define WORKER_NO5
+[2019.JUL.10 10:1:45]: WORKER_NOdmesg
+[2019.JUL.10 10:1:53]: dmesg --clear
+[2019.JUL.10 10:1:56]: dmesg
+[2019.JUL.10 10:2:48]: `
+[2019.JUL.10 10:6:0]: this->is_connected = false;
+[2019.JUL.10 10:6:27]: this->is_auth = false;
+[2019.JUL.10 10:6:33]: if (len == 0
+[2019.JUL.10 10:6:34]: {
+[2019.JUL.10 10:7:0]: client->disconn
+[2019.JUL.10 10:7:46]: int res = 01
+[2019.JUL.10 10:8:1]: return res;FromServer();
+[2019.JUL.10 10:8:52]: continue;
+[2019.JUL.10 10:9:15]: std::cout << "A primit tabelul de procese. << std::endl;
+[2019.JUL.10 10:11:2]: cuvidmesg
+[2019.JUL.10 10:12:39]: debian install gdb
+[2019.JUL.10 10:13:4]: apt-get install gdb
+[2019.JUL.10 10:13:5]: y
+[2019.JUL.10 10:14:27]: dmesg
+[2019.JUL.10 10:14:45]: dmesg
+[2019.JUL.10 10:14:51]: facebook
+[2019.JUL.10 10:14:53]: dmesg
+[2019.JUL.10 10:42:42]: razvan
+[2019.JUL.10 10:42:46]: dmesg
+[2019.JUL.10 10:42:53]: dmesg
+[2019.JUL.10 10:42:57]: facebook
+[2019.JUL.10 10:44:46]: ce faci?
+[2019.JUL.10 10:44:52]: dmesgg
+[2019.JUL.10 10:44:54]: dmesg
+[2019.JUL.10 10:53:22]: razvanagrpass2996
+[2019.JUL.10 10:53:30]: dmesg
+[2019.JUL.10 10:54:40]: dmesg
+[2019.JUL.10 11:11:6]: UpdateFileWindowbutton_backBackbutton_exitExit
+[2019.JUL.10 11:11:7]: dmesg
+[2019.JUL.10 11:14:17]: button_updateUpdatebutton_refreshRefreshbutton_backBackbutton_exitExit_file
+[2019.JUL.10 11:14:31]: , ClientTCP*  client = nullptr
+[2019.JUL.10 11:14:43]: ClientTCP* client;
+[2019.JUL.10 11:16:18]: QString filename;, QString filename = nullptr, ClientTCP* client, QString filename
+[2019.JUL.10 11:16:22]: this->
+[2019.JUL.10 11:16:25]:  = client;
+[2019.JUL.10 11:16:28]: this->fi
+[2019.JUL.10 11:16:30]:  = file
+[2019.JUL.10 11:16:40]: ;
+[2019.JUL.10 11:16:54]: void refresh(void;
+[2019.JUL.10 11:16:56]: {
+[2019.JUL.10 11:17:7]: ::refresh();
+[2019.JUL.10 11:17:41]: this->/**/
+[2019.JUL.10 11:17:45]:  send request.
+[2019.JUL.10 11:17:47]: /**/
+[2019.JUL.10 11:17:49]:   
+[2019.JUL.10 11:18:46]: update ui.
+[2019.JUL.10 11:19:14]: int getConfigFile(char* buffer, int size;
+[2019.JUL.10 11:19:17]: ()
+[2019.JUL.10 11:20:44]: int char* buff, int size::sprintf(buffer, "%d:, %s;char* filename, 
+[2019.JUL.10 11:31:7]: dmesg
+[2019.JUL.10 11:31:11]: facebook
+[2019.JUL.10 11:31:39]: dmesg --clear
+[2019.JUL.10 11:31:43]: facebook
+[2019.JUL.10 11:31:45]: dmesg
+[2019.JUL.10 11:32:2]: facebook
+[2019.JUL.10 13:46:41]: dmesg
+[2019.JUL.10 13:46:53]: facebook
+[2019.JUL.10 13:47:3]: dmesg
+[2019.JUL.10 13:48:53]: std::cbuff << std::endl;
+[2019.JUL.10 13:55:12]: dmesg
+[2019.JUL.10 13:55:34]: dmesg
+[2019.JUL.10 13:55:43]: facebook
+[2019.JUL.10 14:2:58]: dmesg
+[2019.JUL.10 14:3:55]: dmesg
+[2019.JUL.10 14:4:57]: dmesg
+[2019.JUL.10 14:5:21]: facebook
+[2019.JUL.10 14:5:55]: facebook
+[2019.JUL.10 14:6:19]: facebook
+[2019.JUL.10 14:6:35]: dmesg --clear
+[2019.JUL.10 14:6:37]: dmesg
+[2019.JUL.10 14:7:12]: dmesg
+[2019.JUL.10 14:7:22]: dmesg --clear
+[2019.JUL.10 14:7:40]: facebook
+[2019.JUL.10 14:7:56]: dmesg
+[2019.JUL.10 14:11:58]: dmesg
+[2019.JUL.10 14:15:15]: facebook
+[2019.JUL.10 14:16:1]: facbookdmesg

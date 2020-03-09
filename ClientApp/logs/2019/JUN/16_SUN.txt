@@ -1,0 +1,115 @@
+[2019.JUN.16 13:18:21]: cat anan
+[2019.JUN.16 13:21:57]: sudo dmesg
+[2019.JUN.16 13:22:20]: read char device file
+[2019.JUN.16 13:22:47]:  c program
+[2019.JUN.16 13:23:11]: ifstream 
+[2019.JUN.16 13:26:46]: , std::ifstream::in
+[2019.JUN.16 13:27:56]:  file;
+[2019.JUN.16 13:28:33]: * = fopen(this->charFile
+[2019.JUN.16 13:28:55]: fread(buffer, 
+[2019.JUN.16 13:29:14]: fread
+[2019.JUN.16 13:30:13]: 1, size, file;//
+[2019.JUN.16 13:30:17]: //
+[2019.JUN.16 13:30:22]: /*
+[2019.JUN.16 13:30:59]: */
+[2019.JUN.16 13:31:25]: fclose(file);.c_str(), ""
+[2019.JUN.16 13:31:39]: rb
+[2019.JUN.16 13:31:42]: fopen
+[2019.JUN.16 13:34:9]: if (file != NULL
+[2019.JUN.16 13:34:13]: {
+[2019.JUN.16 13:34:14]: }
+[2019.JUN.16 13:34:15]: else
+[2019.JUN.16 13:34:16]: {
+[2019.JUN.16 13:34:18]: std::cout << ""
+[2019.JUN.16 13:44:52]: Char device file could not be opened. << std::endl;
+[2019.JUN.16 13:44:56]: agrpass2996
+[2019.JUN.16 18:39:30]: sudo dmesg
+[2019.JUN.16 18:39:35]: agrpass2996
+[2019.JUN.16 18:40:45]: config
+[2019.JUN.16 18:41:40]: if (strlen(logs > 0
+[2019.JUN.16 18:42:39]:  && strlen(logs > 0
+[2019.JUN.16 18:46:8]: lslsls
+[2019.JUN.16 18:46:53]: dfkjgf
+[2019.JUN.16 18:47:49]: ModuleConfiurer
+[2019.JUN.16 18:48:3]: gconfigurer
+[2019.JUN.16 18:48:23]: /*
+[2019.JUN.16 18:48:39]: ModuleConfigurer - class used to config the 
+[2019.JUN.16 18:49:14]: ure'analyser' and 'parser' hash table contents.
+[2019.JUN.16 18:49:47]: /*
+[2019.JUN.16 18:49:54]: Constructor.
+[2019.JUN.16 18:49:59]: /*
+[2019.JUN.16 18:50:7]: Destructor.
+[2019.JUN.16 18:52:32]: void ConfigureModule
+[2019.JUN.16 18:58:0]: UpdateFile(char* file
+[2019.JUN.16 18:58:24]: name, char* contents;
+[2019.JUN.16 18:59:24]: sudo dmesg
+[2019.JUN.16 18:59:27]: agrpass2996
+[2019.JUN.16 18:59:36]: facebook
+[2019.JUN.16 18:59:39]: sudo dmesg[2019.JUN.16 19:0:44]: /*
+[2019.JUN.16 19:1:8]: UpdateFile - used to update the contents of a hash taTable
+[2019.JUN.16 19:1:15]: Table
+[2019.JUN.16 19:1:24]: @filename: name of the char device.
+[2019.JUN.16 19:1:58]: @contents: the contents of the hash table.
+[2019.JUN.16 19:2:2]: private:
+[2019.JUN.16 19:2:46]: FILE* OpenFile(char* filename;
+[2019.JUN.16 19:2:48]: /*
+[2019.JUN.16 19:3:25]: OpenFile - method used to open the char device file specified by the @filename parameter.
+[2019.JUN.16 19:4:26]: @filename: char device filen
+[2019.JUN.16 19:4:30]: #pragma once
+[2019.JUN.16 19:9:45]: #include <iostrvoid DeleteTable(char* filename;
+[2019.JUN.16 19:10:42]: void InsertTable(cha;
+[2019.JUN.16 19:10:56]: {
+[2019.JUN.16 19:11:29]:    /**/
+[2019.JUN.16 19:11:30]:  
+[2019.JUN.16 19:11:39]:  open file.
+[2019.JUN.16 19:12:5]: FIL = nullptr;
+[2019.JUN.16 19:12:32]: if (strcmp(filename, 
+[2019.JUN.16 19:13:8]: #define PARSER_CHAR_FILE_NAME"ps_parser
+[2019.JUN.16 19:13:42]: PROCESS_TABLE""
+[2019.JUN.16 19:13:47]: processes
+[2019.JUN.16 19:13:56]: #define WORDS_TABLE""
+[2019.JUN.16 19:15:27]: words
+[2019.JUN.16 19:15:43]: PROCESS_TABLE == 0
+[2019.JUN.16 19:15:44]: {
+[2019.JUN.16 19:16:4]: else if (strcmp(filename, WORDS_TABLE == 0
+[2019.JUN.16 19:16:9]: else
+[2019.JUN.16 19:16:23]: std::cout << "Unknown filename
+[2019.JUN.16 19:16:35]:  "
+[2019.JUN.16 19:17:18]:   << filename << std::endl;file = fopen(
+[2019.JUN.16 19:17:37]: #define ANALYSER_PATH"analyser
+[2019.JUN.16 19:18:1]: #define PARSER_PATH"../modules/keylogger/parser/ps_parser
+[2019.JUN.16 19:18:33]: #include <c++ strcmp
+[2019.JUN.16 19:18:45]: cstring
+[2019.JUN.16 19:19:43]: PARSER_PATH;file = fopen(ANALYSER_PATH;
+[2019.JUN.16 19:19:45]: /**/
+[2019.JUN.16 19:19:46]:  
+[2019.JUN.16 19:19:53]:  write to file.
+[2019.JUN.16 19:19:59]: if (file != nullptr
+[2019.JUN.16 19:20:0]: {
+[2019.JUN.16 19:20:7]: else
+[2019.JUN.16 19:20:8]: {
+[2019.JUN.16 19:23:44]: std::cout << "Could not open file:  << filename << std::endl;/**/
+[2019.JUN.16 19:23:45]:  
+[2019.JUN.16 19:23:50]:  delete command.
+[2019.JUN.16 19:24:8]: char* line = new char[50;
+[2019.JUN.16 19:24:24]: memset(line, '\0, 
+[2019.JUN.16 19:25:5]: #define BUF_SILILINE_SIZE
+[2019.JUN.16 19:25:26]: LINE_SIZE;, "w
+[2019.JUN.16 19:26:52]: , "wsprintf(line, 
+
+[2019.JUN.16 23:8:0]: delete tv;
+[2019.JUN.16 23:8:9]: delete temp_fdset;
+[2019.JUN.16 23:9:10]: return result;
+[2019.JUN.16 23:9:27]: int result;if (result
+[2019.JUN.16 23:9:50]: result = client->(); == -1 /**/
+[2019.JUN.16 23:9:51]:  
+[2019.JUN.16 23:9:54]:  error.
+[2019.JUN.16 23:9:55]: {
+[2019.JUN.16 23:9:59]: std::cout << "
+[2019.JUN.16 23:10:10]: Select error! << std::endl;
+[2019.JUN.16 23:10:11]: else
+[2019.JUN.16 23:10:12]: {
+[2019.JUN.16 23:10:44]:  if (result == 0 /**/
+[2019.JUN.16 23:10:48]:  no data 
+[2019.JUN.16 23:11:5]: available./**/
+[2019.JUN.16 23:11:6]:   

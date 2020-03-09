@@ -1,0 +1,5 @@
+ps
+top
+ls
+geany
+x-www-browser

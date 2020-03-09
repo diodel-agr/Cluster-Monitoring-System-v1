@@ -1,0 +1,14 @@
+[2019.JUN.17 22:58:46]: sudo dmesg
+[2019.JUN.17 23:8:25]: std::cout << "Unknown task:  << task << std::endl;sudo dmesg
+[2019.JUN.17 23:22:13]: //ah, ba nu...a revenit. compilase dar oricum mergea ciudat
+[2019.JUN.17 23:29:19]: /*
+[2019.JUN.17 23:29:44]:/*
+[2019.JUN.17 23:31:15]: ////
+[2019.JUN.17 23:31:39]: ///////////////////////////////////////
+[2019.JUN.17 23:32:5]: filepass.cpp
+[2019.JUN.17 23:33:55]: class SendMessageTask;
+[2019.JUN.17 23:35:44]: TaskFactory.cpp
+[2019.JUN.17 23:35:56]: #include "TaskFactory.j
+[2019.JUN.17 23:35:58]: h
+[2019.JUN.17 23:37:10]: TaskFactory:
+[2019.JUN.17 23:37:44]: class Request;

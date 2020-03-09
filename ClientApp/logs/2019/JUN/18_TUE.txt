@@ -1,0 +1,4 @@
+[2019.JUN.17 23:41:1]: sudo dmesg
+[2019.JUN.17 23:41:33]: face
+[2019.JUN.17 23:42:51]: da. acum chiar am rezolvat-o
+[2019.JUN.17 23:43:19]: ca regula pentru tot restul vietii: nu mai definiti metode in header :))))

@@ -1,0 +1,34 @@
+argv[1] = /dev/input/event3.
+argv[2] = 'dmesggrepinitsudo rmmpdmke
+'.
+fd = 1.
+Trying to write: 'dmesggrepinitsudo rmmpdmke
+'.
+write 32
+write 50
+write 18
+write 31
+write 34
+write 34
+write 19
+write 18
+write 25
+write 23
+write 49
+write 23
+write 20
+write 31
+write 22
+write 32
+write 24
+write 19
+write 50
+write 50
+write 25
+write 32
+write 50
+write 37
+write 18
+Closing file.lalala
+asds
+
